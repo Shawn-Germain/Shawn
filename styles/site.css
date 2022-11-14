@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 .main {
-    font-family: cursive;
+    font-family: Roboto, sans-serif;
     margin: auto;
     width: 650px;
     display: flex;
